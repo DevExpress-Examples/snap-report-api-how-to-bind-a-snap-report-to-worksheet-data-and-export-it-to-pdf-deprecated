@@ -1,3 +1,11 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Program.cs](./CS/SnapAndSpreadsheetDocumentServerExample/Program.cs) (VB: [Program.vb](./VB/SnapAndSpreadsheetDocumentServerExample/Program.vb))
+* [XDataSourceHelper.cs](./CS/SnapAndSpreadsheetDocumentServerExample/XDataSourceHelper.cs) (VB: [XDataSourceHelper.vb](./VB/SnapAndSpreadsheetDocumentServerExample/XDataSourceHelper.vb))
+* [XPictureProvider.cs](./CS/SnapAndSpreadsheetDocumentServerExample/XPictureProvider.cs) (VB: [XPictureProvider.vb](./VB/SnapAndSpreadsheetDocumentServerExample/XPictureProvider.vb))
+* [XTemplateCreator.cs](./CS/SnapAndSpreadsheetDocumentServerExample/XTemplateCreator.cs) (VB: [XTemplateCreator.vb](./VB/SnapAndSpreadsheetDocumentServerExample/XTemplateCreator.vb))
+<!-- default file list end -->
 # Snap Report API - How to bind a Snap report to worksheet data and export it to PDF
 
 
